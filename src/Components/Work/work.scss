@@ -1,0 +1,23 @@
+.how-we-work {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 84px;
+    padding-bottom: 95px;
+}
+
+.how-we-work h2 {
+    vertical-align: middle;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 68px;
+}
+
+.how-we-work p {
+    vertical-align: middle;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
