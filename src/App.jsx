@@ -14,7 +14,7 @@ function App() {
   // const addPost = (userScore) => {
   //   for (i = 0; i < scores.length; i++) {
   //     if  (arr[i].passingScore <= userScore) { 
-  //        setArr([...arr, {scores[i].name, scores[i].location, scores[i].passingScore, scores[i].location}])
+  //        setArr([...arr, {name: scores[i].name, location: scores[i].location, passingScore: scores[i].passingScore, history: scores[i].history}])
   //     }
   //   }
 
